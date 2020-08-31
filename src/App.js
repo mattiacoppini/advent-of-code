@@ -39,7 +39,7 @@ class App extends React.Component {
         super(props);
 
         this.state = {
-            active: -1
+            active: 3
         }
     }
 
